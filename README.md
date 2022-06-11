@@ -1,2 +1,2 @@
-# calculadora_simples
+# Calculadora simples
 Uma calculadora simples usando windows forms
